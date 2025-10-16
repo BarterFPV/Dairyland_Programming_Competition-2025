@@ -5,9 +5,12 @@ To do this, you need to write a program that takes a specific number as input an
 Example 
 
 input
+```
 5
+```
 
 output
+```
 1+1+1+1+1
 1+1+1+2
 1+1+2+1
@@ -21,3 +24,4 @@ output
 2+3
 3+1+1
 3+2
+```
