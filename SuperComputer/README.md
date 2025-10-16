@@ -11,15 +11,21 @@ The input will first specify the number of operations to perform, followed by th
 5. Print the result in decimal.
 
 Example.
+
 INPUT
+```
 4
 2 + 3
 0b1010 & 0xF
 8 << 10
 z?[] + 10
+```
 
 OUTPUT 
+```
 5
 10
 8192
 Invalid Iput
+```
+
