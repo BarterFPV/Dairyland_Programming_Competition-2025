@@ -15,11 +15,8 @@ Developed as part of the Blue Division judging team:
 - Oversaw on-site judging and scoring for three problems during the event.
 
 ## Contents
-- `Q8/` — Problem 8 source files, statement, and test cases.  
-- `Q9/` — Problem 9 source files, statement, and test cases.  
-
-
-## Environment
-- Compatible with **Python 3** and **Java**.  
-- Uses standard input/output for automated testing.  
+- Problem 8 and 9 source files, statement, and test cases.  
+- Environment
+    - Compatible with **Python 3** and **Java**.  
+    - Uses standard input/output for automated testing.  
 
